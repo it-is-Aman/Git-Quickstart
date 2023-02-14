@@ -1,0 +1,5 @@
+no.log
+*.log
+/ig
+static/ig/
+new.txt
